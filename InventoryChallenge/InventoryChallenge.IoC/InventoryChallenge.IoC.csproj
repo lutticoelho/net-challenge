@@ -11,6 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\EmailService.Sendgrid\EmailService.Sendgrid.csproj" />
+    <ProjectReference Include="..\EmailService.Twillio\EmailService.Twillio.csproj" />
+    <ProjectReference Include="..\InventoryChallenge.EmailProvider.Contract\InventoryChallenge.EmailProvider.Contract.csproj" />
     <ProjectReference Include="..\InventoryChallenge.Repository.Contract\InventoryChallenge.Repository.Contract.csproj" />
     <ProjectReference Include="..\InventoryChallenge.Repository\InventoryChallenge.Repository.csproj" />
   </ItemGroup>

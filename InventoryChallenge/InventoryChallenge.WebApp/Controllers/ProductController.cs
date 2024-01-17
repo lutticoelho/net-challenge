@@ -13,6 +13,7 @@ namespace InventoryChallenge.WebApp.Controllers
         {
             _app = app;
         }
+
         // GET: ProductController
         public IActionResult Index(int page = 0, int itemsPerPage = 10, string nameFilter = "")
         {
