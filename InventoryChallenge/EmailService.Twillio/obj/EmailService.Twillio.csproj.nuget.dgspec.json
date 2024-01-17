@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projetos\\poc\\net-challenge\\InventoryChallenge\\EmailService.Twillio\\EmailService.Twillio.csproj": {}
+  },
+  "projects": {
+    "D:\\projetos\\poc\\net-challenge\\InventoryChallenge\\EmailService.Twillio\\EmailService.Twillio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projetos\\poc\\net-challenge\\InventoryChallenge\\EmailService.Twillio\\EmailService.Twillio.csproj",
+        "projectName": "EmailService.Twillio",
+        "projectPath": "D:\\projetos\\poc\\net-challenge\\InventoryChallenge\\EmailService.Twillio\\EmailService.Twillio.csproj",
+        "packagesPath": "C:\\Users\\LuttiCoelho\\.nuget\\packages\\",
+        "outputPath": "D:\\projetos\\poc\\net-challenge\\InventoryChallenge\\EmailService.Twillio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LuttiCoelho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\projetos\\poc\\net-challenge\\InventoryChallenge\\InventoryChallenge.EmailProvider.Contract\\InventoryChallenge.EmailProvider.Contract.csproj": {
+                "projectPath": "D:\\projetos\\poc\\net-challenge\\InventoryChallenge\\InventoryChallenge.EmailProvider.Contract\\InventoryChallenge.EmailProvider.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\projetos\\poc\\net-challenge\\InventoryChallenge\\InventoryChallenge.EmailProvider.Contract\\InventoryChallenge.EmailProvider.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projetos\\poc\\net-challenge\\InventoryChallenge\\InventoryChallenge.EmailProvider.Contract\\InventoryChallenge.EmailProvider.Contract.csproj",
+        "projectName": "InventoryChallenge.EmailProvider.Contract",
+        "projectPath": "D:\\projetos\\poc\\net-challenge\\InventoryChallenge\\InventoryChallenge.EmailProvider.Contract\\InventoryChallenge.EmailProvider.Contract.csproj",
+        "packagesPath": "C:\\Users\\LuttiCoelho\\.nuget\\packages\\",
+        "outputPath": "D:\\projetos\\poc\\net-challenge\\InventoryChallenge\\InventoryChallenge.EmailProvider.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LuttiCoelho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
